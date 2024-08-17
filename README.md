@@ -56,7 +56,7 @@ Contact me
 <div style="display: flex; align-items: center;">
     <a href="mailto:djibmsa@gmail.com">
      
-    </a>
+   
 </div>
 </div>
 
