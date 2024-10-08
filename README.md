@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋! My name is Zack and I'm a full stack developper, from france.</h1>
 
-<h3>Currently I'm learning back-end</h3>
+<h3>Available for work</h3>
 
-<p>Available for work</p>
 
 <img align="right" height="150" src="https://img.freepik.com/vecteurs-libre/site-web-developpement-web-ingenierie-programmation-codage-ecrans-interface-realite-augmentee-logiciel-programmation-ingenieur-projet-developpeur-conception-application-illustration-dessin-anime_107791-3863.jpg?t=st=1721656986~exp=1721660586~hmac=06b924d7f4e006bab6ec82a9c0d43402e5d9f2b1fa57fd0e90b085ac302c59b4&w=1800"/>
 
